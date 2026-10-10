@@ -1,0 +1,4 @@
+Flask>=3.0
+qrcode[pil]>=7.4
+opencv-python>=4.8
+openvino>=2024.0
